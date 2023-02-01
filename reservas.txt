@@ -1,0 +1,4 @@
+Gabriel, 1, 10
+Maria, 2, 5
+Alfredo, 3, 3
+Sofia Fortunato, 4, 15
